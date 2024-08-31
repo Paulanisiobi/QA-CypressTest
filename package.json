@@ -1,0 +1,15 @@
+{
+  "name": "qa-cypresstest",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Paul Anisiobi",
+  "license": "ISC",
+  "description": "cypress project",
+  "devDependencies": {
+    "cypress": "^13.14.1"
+  }
+}
